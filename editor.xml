@@ -1,0 +1,3 @@
+<application>
+  <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" nodeAutoDelay="300" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
+</application>
